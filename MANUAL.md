@@ -6,8 +6,8 @@ Here's my "manual for me", so that you know what to expect.
 
 ## ℹ️ A quick background
 
-- Born in Leeds.
-- Went to the [University of Lincoln](https://www.lincoln.ac.uk/). Got a BSc (Hons) in Computing and Cybernetics.
+- Born in Leeds. Currently living in Leeds.
+- Went to the [University of Lincoln](https://www.lincoln.ac.uk/). Got a BSc (Hons) in Computing and Cybernetics. It's not as cool as it sounds.
 - Worked at the university, building things to improve the IT user experience, and then later working on research metadata management.
 - Went to work for [mySociety](https://www.mysociety.org/), empowering people in their democracies. Did quite a lot of work on [data about politicians](https://everypolitician.org/).
 - Currently at [dxw](https://www.dxw.com/), building great public services to improve lives.
@@ -30,11 +30,11 @@ I use [reclaim.ai](https://reclaim.ai/) to proactively block time out in my cale
 
 ### 💬 The best ways to communicate with me
 
-The best way to reach me – at least initially – is asynchronously. Drop me a message in Slack. If I'm not busy I'm usually quite happy to jump on a call, just message me first to check.
+The best way to reach me – at least at first – is asynchronously. Drop me a message in Slack. If I'm not busy I'm usually quite happy to jump on a call, just message me first to check.
 
 I only check my emails a few times a day, so they're great for things I need to know or need to take an action on _eventually_, but not great for something which needs a rapid response.
 
-In an open-plan office I may be wearing headphones. If so then it doesn't always mean I'm not interruptable, I might just be listening to something in the background. I'd prefer you messaged me to check if I'm able to talk, but if I say "yes" then just wander over for a chat.
+In an open-plan office I may be wearing headphones. If so then it doesn't always mean I'm not interruptable, I might just be listening to something. I'd prefer you messaged me to check if I'm able to talk, but if I say "yes" then just wander over for a chat.
 
 ### ✔️ The ways I like to receive feedback
 
@@ -52,10 +52,11 @@ I don't do well with meetings which should really be emails. I have no problem a
 
 Good documentation, be that of the work left to be done, the process, the design of a system, or anything else.
 
+I enjoy a good animated gif, and will apply them liberally in both chat channels and presentations.
+
 ## 📇 Other things to know about me
 
 - My pronouns are [he/him/his](https://pronoun.is/he).
 - I can be quite extroverted when needed, so I'm usually quite happy to do things like show-and-tells.
-- I love a good animated gif, and will apply them liberally in both chat channels and presentations.
 - I try to live a somewhat [green existence](https://nickjackson.me/green).
 - I take part in [amateur dramatics](http://whitkirkartsguild.com/) and [choral singing](https://leedsmalevoicechoir.co.uk/), if you really want to see me on stage.
