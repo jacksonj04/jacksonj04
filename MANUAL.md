@@ -8,7 +8,7 @@ Here's my "manual for me", so that you know what to expect.
 
 - Born in Leeds. Currently living in Leeds.
 - Went to the [University of Lincoln](https://www.lincoln.ac.uk/). Got a BSc (Hons) in Computing and Cybernetics. It's not as cool as it sounds.
-- Worked at the university, building things to improve the IT user experience, and then later working on [research metadata management]([research metadata management](http://orbital.dev.lincoln.ac.uk)).
+- Worked at the university, building things to improve the IT user experience, and then later working on [research metadata management](http://orbital.dev.lincoln.ac.uk).
 - Went to work for [mySociety](https://www.mysociety.org/), empowering people in their democracies. Did quite a lot of work on [data about politicians](https://everypolitician.org/).
 - Currently at [dxw](https://www.dxw.com/), building great public services to improve lives.
 
