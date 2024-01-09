@@ -56,7 +56,7 @@ I enjoy a good animated gif, and will apply them liberally in both chat channels
 
 ## 📇 Other things to know about me
 
-- My pronouns are [he/him/his](https://pronoun.is/he).
+- My pronouns are he/him/his.
 - I can be quite extroverted when needed, so I'm usually quite happy to do things like show-and-tells.
 - I try to live a somewhat [green existence](https://nickjackson.me/green).
 - I take part in [amateur dramatics](http://whitkirkartsguild.com/) and [choral singing](https://leedsmalevoicechoir.co.uk/), if you really want to see me on stage.
