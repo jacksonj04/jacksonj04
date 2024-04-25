@@ -32,7 +32,7 @@ Here's my "manual for me", so that you know what to expect.
 
 - Don't let perfect be the enemy of the good
 - Always ask yourself if you can do it better (and be happy to say "yes, but not right now")
-- [Always try to be nice, never fail to be kind](https://www.youtube.com/watch?v=yJqsPBWbtjk)
+- [Always try to be nice, never fail to be kind](https://youtu.be/yJqsPBWbtjk?t=90)
 
 ### 💻 Conditions I like to work in
 
