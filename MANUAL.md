@@ -14,6 +14,26 @@ Here's my "manual for me", so that you know what to expect.
 
 ## 🧑‍💼 Working with me
 
+### 🎉 Things I'm good at
+
+- Proficient in Python and Ruby, competent in PHP, passable in JavaScript, happy to engage with most other things
+- Data modelling and architecture
+- Translating user requirements into deliverable features
+- Task automation
+- Being pragmatic
+- Presenting
+
+### 🆘 Things I might need help with
+
+- Prioritisation
+- Keeping tickets up to date
+
+### ⭐ Values I find important
+
+- Don't let perfect be the enemy of the good
+- Always ask yourself if you can do it better (and be happy to say "yes, but not right now")
+- [Always try to be nice, never fail to be kind](https://www.youtube.com/watch?v=yJqsPBWbtjk)
+
 ### 💻 Conditions I like to work in
 
 I usually work a hybrid of home, coffee shops and office, depending on what needs doing. I can work almost anywhere as long as the noise level is consistent. It doesn't matter if it's consistently quiet or consistently loud, as long as there aren't sudden changes every few seconds.
@@ -22,9 +42,9 @@ Music is good. I tend to prefer things without vocals when I'm working, but that
 
 ### 🕤 The times/hours I like to work
 
-I generally work from 9:30am until 6:00pm.
+I work compressed hours from 8:00am until 6:00pm Monday to Thursday, and do not work on Friday.
 
-I do have children in school, so often need flexibility around school drop-off and pick-up times.
+I do have children in school and nursery, so often need some flexibility around school drop-off and pick-up times.
 
 I use [reclaim.ai](https://reclaim.ai/) to proactively block time out in my calendar for things, but that doesn't mean I won't be able to move things around to make way for something important.
 
@@ -42,7 +62,9 @@ Get straight to the point. I'd rather receive feedback clearly and promptly, esp
 
 ### ➕ Things I need
 
-Clarity around what I'm doing and why. I often ask lots of questions to get an understanding of the reasons for something, especially in complex systems.
+Clarity around what I'm doing and why. I often ask lots of questions to get an understanding of the reasons for doing (or not doing) something, especially in complex systems.
+
+Freedom to explore a problem space, options and work which has been done before. This will hardly ever look like the actual solution which comes out at the far end, but is important for making sure the solution is the right one.
 
 ### ➖ Things I struggle with
 
